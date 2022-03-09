@@ -6,4 +6,4 @@
 
 ## STAGE 2
 
-> Hi, Jekyll
+![](./assets/ECS.svg)
