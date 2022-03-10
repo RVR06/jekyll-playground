@@ -4,8 +4,12 @@
 @import "{{ site.theme }}";
 
 header {
-  background: #373A36;
+  background: #000000;
   h1 {
     color: #FFFFFF;
+  }
+  
+  #banner {
+    background: #FFB71B;
   }
 }
