@@ -16,7 +16,12 @@
 
 ## STAGE 2
 
-### Step 1
-### Step 2
+### Step 2.1
+
+#### 2.1.1
+
+### Step 2.2
+
+#### 2.2.1
 
 ![](./assets/ECS.svg)
