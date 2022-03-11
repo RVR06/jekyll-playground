@@ -1,4 +1,4 @@
-remote_theme: RVR06/corp
+remote_theme: ansys/jekyll-theme-corp
 
 plugins:
 - jekyll-remote-theme 
