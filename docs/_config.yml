@@ -1,4 +1,4 @@
-remote_theme: RVR06/corp
+remote_theme: RVR06/leap-day
 
 plugins:
 - jekyll-remote-theme 
